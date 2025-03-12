@@ -1,6 +1,6 @@
 # **!**
 
-# <center> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=predy)](https://solved.ac/predy/) </center>
+# <center> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawk-deok-gye)](https://solved.ac/predy/) </center>
 </br>
 
   
